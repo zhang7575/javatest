@@ -1,0 +1,9 @@
+_Store
+.idea/*
+.mtj.tmp/
+.settings/
+target/*
+*.iml
+bin/*
+.project
+.classpath
